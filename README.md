@@ -3,4 +3,4 @@ a research agent that answers like perplexity (just for the reference) leveragin
 
 Example : 
 
-<img src="LongScreenshot.jpg">
+<img src="LongScreenshot.png">
